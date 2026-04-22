@@ -1,4 +1,3 @@
-[index-9.html](https://github.com/user-attachments/files/26966069/index-9.html)
 <html lang="th">
 <head>
 <meta charset="UTF-8">
